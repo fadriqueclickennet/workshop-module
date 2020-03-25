@@ -1,0 +1,5 @@
+url: https://github.com/fadriqueclickennet/workshop-module
+versions:
+    "@unreleased":
+        added:
+            - Laravel 5.8 compatibility
